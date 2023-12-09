@@ -1,0 +1,9 @@
+C:\Users\RUSLAN\Desktop\EVENTTESTHARNESS\bin\Debug\EventTestHarness.exe
+C:\Users\RUSLAN\Desktop\EVENTTESTHARNESS\bin\Debug\EventTestHarness.pdb
+C:\Users\RUSLAN\Desktop\EVENTTESTHARNESS\bin\Debug\Audit.dll
+C:\Users\RUSLAN\Desktop\EVENTTESTHARNESS\bin\Debug\Audit.pdb
+C:\Users\RUSLAN\Desktop\EVENTTESTHARNESS\obj\Debug\EventTestHarness.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\EVENTTESTHARNESS\obj\Debug\EventTestHarness.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\EVENTTESTHARNESS\obj\Debug\EventTestHarness.csproj.CopyComplete
+C:\Users\RUSLAN\Desktop\EVENTTESTHARNESS\obj\Debug\EventTestHarness.exe
+C:\Users\RUSLAN\Desktop\EVENTTESTHARNESS\obj\Debug\EventTestHarness.pdb

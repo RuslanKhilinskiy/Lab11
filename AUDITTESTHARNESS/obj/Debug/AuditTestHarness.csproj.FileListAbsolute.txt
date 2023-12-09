@@ -1,0 +1,9 @@
+C:\Users\RUSLAN\Desktop\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\AUDITTESTHARNESS\bin\Debug\AuditTestHarness.exe
+C:\Users\RUSLAN\Desktop\AUDITTESTHARNESS\bin\Debug\AuditTestHarness.pdb
+C:\Users\RUSLAN\Desktop\AUDITTESTHARNESS\bin\Debug\Audit.dll
+C:\Users\RUSLAN\Desktop\AUDITTESTHARNESS\bin\Debug\Audit.pdb
+C:\Users\RUSLAN\Desktop\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.csproj.CopyComplete
+C:\Users\RUSLAN\Desktop\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.exe
+C:\Users\RUSLAN\Desktop\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.pdb

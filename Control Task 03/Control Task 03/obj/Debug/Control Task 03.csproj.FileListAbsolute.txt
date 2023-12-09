@@ -1,0 +1,7 @@
+D:\C#Learning\Labs\Lab11General\Control Task 03\Control Task 03\bin\Debug\Control Task 03.exe.config
+D:\C#Learning\Labs\Lab11General\Control Task 03\Control Task 03\bin\Debug\Control Task 03.exe
+D:\C#Learning\Labs\Lab11General\Control Task 03\Control Task 03\bin\Debug\Control Task 03.pdb
+D:\C#Learning\Labs\Lab11General\Control Task 03\Control Task 03\obj\Debug\Control Task 03.csproj.AssemblyReference.cache
+D:\C#Learning\Labs\Lab11General\Control Task 03\Control Task 03\obj\Debug\Control Task 03.csproj.CoreCompileInputs.cache
+D:\C#Learning\Labs\Lab11General\Control Task 03\Control Task 03\obj\Debug\Control Task 03.exe
+D:\C#Learning\Labs\Lab11General\Control Task 03\Control Task 03\obj\Debug\Control Task 03.pdb

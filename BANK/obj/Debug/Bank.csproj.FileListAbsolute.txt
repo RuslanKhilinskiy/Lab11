@@ -1,0 +1,6 @@
+C:\Users\RUSLAN\Desktop\BANK\bin\Debug\Bank.dll
+C:\Users\RUSLAN\Desktop\BANK\bin\Debug\Bank.pdb
+C:\Users\RUSLAN\Desktop\BANK\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\BANK\obj\Debug\Bank.dll
+C:\Users\RUSLAN\Desktop\BANK\obj\Debug\Bank.pdb

@@ -1,0 +1,11 @@
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab12\STARTER\TESTHARNESS\bin\Debug\TestHarness.exe.config
+C:\Users\RUSLAN\Desktop\TESTHARNESS\obj\Debug\TestHarness.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\TESTHARNESS\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\TESTHARNESS\bin\Debug\TestHarness.exe.config
+C:\Users\RUSLAN\Desktop\TESTHARNESS\bin\Debug\TestHarness.exe
+C:\Users\RUSLAN\Desktop\TESTHARNESS\bin\Debug\TestHarness.pdb
+C:\Users\RUSLAN\Desktop\TESTHARNESS\bin\Debug\Bank.dll
+C:\Users\RUSLAN\Desktop\TESTHARNESS\bin\Debug\Bank.pdb
+C:\Users\RUSLAN\Desktop\TESTHARNESS\obj\Debug\TestHarness.csproj.CopyComplete
+C:\Users\RUSLAN\Desktop\TESTHARNESS\obj\Debug\TestHarness.exe
+C:\Users\RUSLAN\Desktop\TESTHARNESS\obj\Debug\TestHarness.pdb
